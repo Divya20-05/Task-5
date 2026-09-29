@@ -1,0 +1,6 @@
+streamlit>=1.37,<2
+pandas>=2.0,<4
+numpy>=1.24,<3
+plotly>=5.18,<7
+pytest>=8,<10
+Pygments>=2.6
